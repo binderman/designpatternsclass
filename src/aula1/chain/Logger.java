@@ -1,4 +1,4 @@
-package chain;
+package aula1.chain;
 
 public abstract class Logger {
     public static int INFO = 1;

@@ -1,4 +1,4 @@
-package strategy;
+package aula1.strategy;
 
 public class App {
     public static void main(String[] args) throws Exception {
