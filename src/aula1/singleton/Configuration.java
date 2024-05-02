@@ -1,3 +1,4 @@
+package aula1.singleton;
 import java.util.Properties;
 import java.io.FileInputStream;
 import java.io.IOException;

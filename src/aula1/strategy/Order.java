@@ -1,3 +1,4 @@
+package aula1.strategy;
 public class Order {
     private double weight;
     private ShippingStrategy shippingStrategy;

@@ -1,4 +1,4 @@
-package chain;
+package aula1.chain;
 
 public class ConsoleLogger extends Logger {
     public ConsoleLogger(int level) {

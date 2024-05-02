@@ -1,4 +1,4 @@
-package chain;
+package aula1.chain;
 
 public class FileLogger extends Logger {
     public FileLogger(int level) {
