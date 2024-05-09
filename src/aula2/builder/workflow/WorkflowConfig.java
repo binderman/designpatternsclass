@@ -1,4 +1,4 @@
-package aula2.builder;
+package aula2.builder.workflow;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -59,4 +59,5 @@ public class WorkflowConfig {
                '}';
     }
 }
+
 

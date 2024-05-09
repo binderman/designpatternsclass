@@ -1,9 +1,9 @@
 package aula2.builder.tasks;
 
-public class StandardTaskManagerBuilder implements TaskManagerBuilder {
+public class TaskManagerBuilderImpl implements TaskManagerBuilder {
     private TaskManager taskManager;
 
-    public StandardTaskManagerBuilder() {
+    public TaskManagerBuilderImpl() {
         this.taskManager = new TaskManager();
     }
 
