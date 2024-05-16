@@ -1,5 +1,6 @@
 package aula2.exercicios.exercicio1;
 
+
 public class MemberFactory {
     // Método estático Factory para criar membros com base no tipo
     public static Member getMember(String type) {
