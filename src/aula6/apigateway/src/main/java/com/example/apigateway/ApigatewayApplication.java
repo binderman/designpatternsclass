@@ -10,14 +10,14 @@ import org.springframework.http.HttpStatus;
 
 @SpringBootApplication
 public class ApigatewayApplication {
-
-    @Value("${order.service.url}")
+	
+	@Value("${order.service.url:http://localhost:8080}")
     private String orderServiceUrl;
 
-    @Value("${inventory.service.url}")
+    @Value("${inventory.service.url:http://localhost:8080}")
     private String inventoryServiceUrl;
 
-    @Value("${payment.service.url}")
+    @Value("${payment.service.url:http://localhost:8080}")
     private String paymentServiceUrl;
 
     @Bean
