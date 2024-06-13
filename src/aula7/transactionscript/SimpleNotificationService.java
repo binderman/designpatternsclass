@@ -1,4 +1,4 @@
-package transactionscript;
+package aula7.transactionscript;
 
 public class SimpleNotificationService implements NotificationService {
     @Override

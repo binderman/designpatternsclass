@@ -1,6 +1,5 @@
 {
     "java.project.sourcePaths": [
-        "src/aula7",
         "src"
     ],
     "java.project.outputPath": "bin",

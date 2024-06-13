@@ -1,4 +1,4 @@
-package transactionscript;
+package aula7.transactionscript;
 
 public class Item {
     private String name;
