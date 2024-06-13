@@ -1,5 +1,8 @@
 {
-    "java.project.sourcePaths": ["src", "src/aula4/exercicios"],
+    "java.project.sourcePaths": [
+        "src/aula7",
+        "src"
+    ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
